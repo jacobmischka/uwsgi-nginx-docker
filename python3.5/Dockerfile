@@ -1,6 +1,6 @@
 FROM python:3.5
 
-MAINTAINER Sebastian Ramirez <tiangolo@gmail.com>
+MAINTAINER Jacob Mischka <jacob@mischka.me>
 # Install uWSGI
 RUN pip install uwsgi
 
